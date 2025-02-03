@@ -1,0 +1,2 @@
+# Basic_Python
+Yo estoy estudiando y repasando conceptos de Python. Encontre un curso de Cisco Networking Academy, y quiero obtener el certificado de este mismo, ya que esta habalado por Python Institute. El curso es Python Essentials 1. Y como forma de anotacion cree varias pizzaras donde anote lo que iba aprendiendo y estoy aprendiendo. Asi que voy a subir las hojas que cree en el repositorio como forma de documentar mi aprendizaje y por si hay alguien interesado. Subo las imagenes y el archivo de exalidraw (de forma que lo pueden editar si quieren). 
