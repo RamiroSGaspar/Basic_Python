@@ -1,11 +1,11 @@
-bloques = int(input("Ingresa la cantidad de bloques: "))
+bloques = int(input("Ingresa la cantidad de bloques "))
 
-ac = 0
-nivel = 1
+ac_bloques = 0
+nivel = 0
 
-while ac + nivel <= bloques:
-    ac += nivel
+while ac_bloques + nivel <= bloques:
     nivel += 1
+    ac_bloques += nivel
     
-altura = nivel - 1
+altura = nivel
 print(altura)
