@@ -7,5 +7,4 @@ while ac_bloques + nivel <= bloques:
     nivel += 1
     ac_bloques += nivel
     
-altura = nivel
-print(altura)
+print("el nivel de altura es: ", nivel)
