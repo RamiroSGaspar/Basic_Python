@@ -32,8 +32,6 @@ Y el cuerpo del bucle contiene la variable nivel que se suma una vez mas en cada
 lograr una piramide, y despues ese nivel que se tiene se suma a los bloques acumulados de forma
 que se va viendo la cantida de bloques que se usaron.
 '''
-
-
 bloques = int(input("Ingresa la cantidad de bloques "))
 
 ac_bloques = 0

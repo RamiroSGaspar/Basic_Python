@@ -30,6 +30,17 @@ def pregunta3():
             break
         nombre += caracter
     print(nombre)
+    
+# Pregunta 4: Crea un programa con un bucle for y una sentencia continue. El programa debe iterar sobre
+# una cadena de dígitos, reemplazar cada 0 con x, e imprimir la cadena modificada en la pantalla.
+
+def pregunta4():
+    numero = input("Ingresa una cadena de digitos: ")
+    for digit in numero:
+        if digit == "0":
+            print("x", end="")
+            continue
+        print(digit, end="")
 
 if seleccion == 1:
     pregunta1()
@@ -37,3 +48,5 @@ elif seleccion == 2:
     pregunta2()
 elif seleccion == 3:
     pregunta3()
+elif seleccion == 4:
+    pregunta4()
