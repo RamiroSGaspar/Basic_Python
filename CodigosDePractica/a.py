@@ -1,4 +1,4 @@
-var = 1
+i = 1
+j = not i
 
-print(var > 0)
-print(not(var > 0))
+print(j)
