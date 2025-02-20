@@ -1,5 +1,5 @@
 # Dado un número natural x, mostrar su último dígito.
-def Problema4():
+def Problema1():
     x = int(input("Ingresa un numero natural: "))
     
     if x == 0:
@@ -8,4 +8,4 @@ def Problema4():
         utlimo_digito = x % 10
         print(utlimo_digito)
 
-Problema4()
+Problema1()
