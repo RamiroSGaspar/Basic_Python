@@ -18,7 +18,6 @@ def Problema4():
             
     print("Cantidad de numeros pares: ", pares)
     print("Cantidad de numeros impares: ", impares)
-    
 
 Problema4()
     
