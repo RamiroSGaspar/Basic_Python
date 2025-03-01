@@ -1,5 +1,5 @@
-flag_register = 0x1234
-mask = 8
+var = 17
+var_right = var >> 1
+var_left = var << 2
 
-flag_register = flag_register ^ mask
-print(format(flag_register, '016b'))
+print(var, var_left, var_right)
