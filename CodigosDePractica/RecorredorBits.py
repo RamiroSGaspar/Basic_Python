@@ -1,11 +1,8 @@
-#Crea una función que reciba un número entero y cuente cuántos bits están en 1 en su representación binaria.
+numeros = [2, 4, 5, 8, 3]
+print("Lista original: ", numeros)
 
-def ParImparBits():
-    n = int(input("Ingresa un numero entero: "))
-    
-    if n & 1:
-        print("Es impar")
-    else:
-        print("Es par")
-        
-ParImparBits()
+numeros[0] = 111
+print("Lista con contenido previo: ", numeros)
+
+numeros[1] = numeros[4]
+print("Posiciones modificadas: ", numeros)
