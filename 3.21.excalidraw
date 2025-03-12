@@ -711,10 +711,10 @@
     {
       "id": "rHePvo4bPbrb2-2uAc-P6",
       "type": "image",
-      "x": 1589.1590231170753,
-      "y": 648.805555555555,
-      "width": 937.0917225950783,
-      "height": 497.7777777777778,
+      "x": 1614.1590231170753,
+      "y": 641.305555555555,
+      "width": 799.5917225950783,
+      "height": 424.73856209150335,
       "angle": 0,
       "strokeColor": "transparent",
       "backgroundColor": "transparent",
@@ -728,8 +728,8 @@
       "index": "b5c",
       "roundness": null,
       "seed": 881215571,
-      "version": 120,
-      "versionNonce": 1206814429,
+      "version": 153,
+      "versionNonce": 1541775485,
       "isDeleted": false,
       "boundElements": [
         {
@@ -737,7 +737,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1741809436819,
+      "updated": 1741809782707,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -751,10 +751,10 @@
     {
       "id": "KVeAODCWfevH4Tgx6Hsqo",
       "type": "arrow",
-      "x": 2426.9722222222213,
-      "y": 759.3611111111105,
-      "width": 143.33333333333303,
-      "height": 349.9999999999999,
+      "x": 2331.9722222222213,
+      "y": 744.3611111111105,
+      "width": 130.83333333333303,
+      "height": 189.9999999999999,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -770,11 +770,11 @@
         "type": 2
       },
       "seed": 1842625853,
-      "version": 128,
-      "versionNonce": 55063037,
+      "version": 182,
+      "versionNonce": 803216211,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1741809519393,
+      "boundElements": [],
+      "updated": 1741809788909,
       "link": null,
       "locked": false,
       "points": [
@@ -787,17 +787,13 @@
           12.222222222222058
         ],
         [
-          143.33333333333303,
-          349.9999999999999
+          130.83333333333303,
+          189.9999999999999
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": null,
-      "endBinding": {
-        "elementId": "aL0_Lj2eYoEqAmOEiPsAZ",
-        "focus": 0.24063249328240768,
-        "gap": 8.5
-      },
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -805,10 +801,10 @@
     {
       "id": "aL0_Lj2eYoEqAmOEiPsAZ",
       "type": "image",
-      "x": 2198.8611111111104,
-      "y": 1117.8611111111104,
-      "width": 609.4144620811289,
-      "height": 97.44444444444447,
+      "x": 2358.8611111111104,
+      "y": 937.0362380146637,
+      "width": 364.41446208112905,
+      "height": 58.269317540891194,
       "angle": 0,
       "strokeColor": "transparent",
       "backgroundColor": "transparent",
@@ -822,16 +818,11 @@
       "index": "b5e",
       "roundness": null,
       "seed": 852333139,
-      "version": 124,
-      "versionNonce": 251015187,
+      "version": 224,
+      "versionNonce": 1675899293,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "KVeAODCWfevH4Tgx6Hsqo",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1741809517632,
+      "boundElements": [],
+      "updated": 1741809794571,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -841,6 +832,43 @@
         1
       ],
       "crop": null
+    },
+    {
+      "id": "mFnVBBwsw1WDS06u0qgu4",
+      "type": "text",
+      "x": 1665.1865079365075,
+      "y": 1049.519841269841,
+      "width": 1177.62890625,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b5g",
+      "roundness": null,
+      "seed": 704648979,
+      "version": 247,
+      "versionNonce": 663467101,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1741809932578,
+      "link": null,
+      "locked": false,
+      "text": "El valor dentro de los corchetes que selecciona un elemento de la lista se llama indice,\nmientras que la operación de seleccionar un valor dentro de la lista se llama indexación.",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "El valor dentro de los corchetes que selecciona un elemento de la lista se llama indice,\nmientras que la operación de seleccionar un valor dentro de la lista se llama indexación.",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
